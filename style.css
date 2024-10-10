@@ -4,10 +4,10 @@ html {
     padding: 5em 25%;
 }
 h1 {
-    font-feature-settings: "wdth" 100;
-    font-feature-settings: "wght" 600;
+    font-variation-settings: "wdth" 100;
+    font-variation-settings: "wght" 700;
 }
 p {
-    font-feature-settings: "wdth" 80;
-    font-feature-settings: "wght" 400;
+    font-variation-settings: "wdth" 80;
+    font-variation-settings: "wght" 600;
 }
