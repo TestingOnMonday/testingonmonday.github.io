@@ -3,3 +3,11 @@ html {
     background-color: "#afafff";
     padding: 5em 25%;
 }
+h1 {
+    font-feature-settings: "wdth" 100;
+    font-feature-settings: "wght" 600;
+}
+p {
+    font-feature-settings: "wdth" 80;
+    font-feature-settings: "wght" 400;
+}
